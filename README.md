@@ -35,7 +35,7 @@ Finte Volume loss for complex geometries
  # Installation and Usage
 
 ```sh
-git clone https://github.com/rishibabby/Finite-Volume-Discrete-Loss.git
-cd Finite-Volume-Discrete-Loss/Kovasznay Flow
+git clone https://github.com/quest-lab-iisc/PINN-FVD.git
+cd PINN-FVD/Kovasznay Flow
 python KF_Vmodel_FVM.py
 ```
